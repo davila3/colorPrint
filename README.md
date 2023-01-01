@@ -16,6 +16,6 @@ print(red("this'll be red"), blue("this'll be blue"))
 demo() # this'll print a demo
 
 ```
+https://github.com/davila3/colorPrint/blob/main/imgs/demo_img.png
 
-
-![Screen shot of the demo function]([/colorPrint/blob/main/imgs/demo_img.png](https://github.com/davila3/colorPrint/blob/main/imgs/demo_img.png)?raw=true "Demo Function")
+![Screen shot of the demo function](/colorPrint/blob/main/imgs/demo_img.png?raw=true "Demo Function")
