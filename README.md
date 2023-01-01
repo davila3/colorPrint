@@ -17,5 +17,6 @@ demo() # this'll print a demo
 
 ```
 https://github.com/davila3/colorPrint/blob/main/imgs/demo_img.png
+imgs/demo_img.png
 
-![Screen shot of the demo function](/blob/main/imgs/demo_img.png?raw=true "Demo Function")
+![Screen shot of the demo function](/imgs/demo_img.png?raw=true "Demo Function")
