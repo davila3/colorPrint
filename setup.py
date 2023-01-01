@@ -7,5 +7,5 @@ setup(name='colorPrint',
       author='David Avila',
       author_email='david.edward.avila+colorPrint@gmail.com',
       license='MIT',
-      packages=['CPrint'],
+      packages=['colorPrint'],
       zip_safe=False)
